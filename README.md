@@ -1,3 +1,10 @@
+<!-- embryo-brand -->
+# Embryo Memos
+
+**Embryo Memos** is Embryo-Zero's fork of [Memos](https://github.com/usememos/memos), made by Embryo Zero Backyard Data Center Corporation. Our changes are on the `embryo` branch; see [EMBRYO.md](EMBRYO.md), [LEGAL.md](LEGAL.md) and [CHANGES-EMBRYO.md](CHANGES-EMBRYO.md). The original project's README follows unchanged, with its authors' credits.
+
+---
+
 > ✨ Featured sponsor: [CodeRabbit — Industry-leading AI code reviews](https://coderabbit.link/usememos).
 
 <h1 id="memos">
